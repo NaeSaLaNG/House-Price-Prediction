@@ -17,6 +17,7 @@
 <img src = "https://miro.medium.com/v2/resize:fit:966/1*lqDsPkfXPGen32Uem1PTNg.png">
 
 Работа выполнена в рамках конкурса Kaggle: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview.
+
 Финальный результат **0.129**
 
 <h2 style = "text-align:center;
